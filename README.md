@@ -2,7 +2,8 @@
 
 um app desktop simples pra montar ciclo de estudos baseado no vídeo.
 
-![Captura de tela 2025-05-23 092952](https://github.com/user-attachments/assets/e9f46912-a670-4e20-b2c4-231e7f8bdc2d)
+![Captura de tela 2025-05-23 103758](https://github.com/user-attachments/assets/1ea60780-573d-45b9-a7ac-32b6800f45d3)
+
 
 
 ## features
