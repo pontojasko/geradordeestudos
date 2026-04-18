@@ -1,6 +1,6 @@
-# geradordeestudos
+# estudios
 
-um app desktop simples pra montar ciclo de estudos baseado no vídeo.
+um app desktop simples pra montar ciclo de estudos baseado no [vídeo](https://www.youtube.com/watch?v=AjU0UmGHm2Q).
 
 ![Captura de tela 2025-05-23 103758](https://github.com/user-attachments/assets/1ea60780-573d-45b9-a7ac-32b6800f45d3)
 
